@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+      <PackageReference Include="Bogus" Version="35.4.0" />
+      <PackageReference Include="FluentAssertions" Version="6.12.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="7.0.15" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.15" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.15" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.8.0" />
+      <PackageReference Include="Microsoft.TestPlatform.TestHost" Version="17.8.0" />
+      <PackageReference Include="Moq" Version="4.20.70" />
+      <PackageReference Include="xunit" Version="2.6.6" />
+      <PackageReference Include="xunit.extensibility.core" Version="2.6.6" />
+      <PackageReference Include="xunit.runner.visualstudio" Version="2.5.6">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ApiAgenda.Api\ApiAgenda.Api.csproj" />
+      <ProjectReference Include="..\ApiAgenda.CrossCutting\ApiAgenda.CrossCutting.csproj" />
+      <ProjectReference Include="..\ApiAgenda.Data\ApiAgenda.Data.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="xunit.core">
+        <HintPath>..\..\..\..\Users\assis.frello\.nuget\packages\xunit.extensibility.core\2.6.6\lib\netstandard1.1\xunit.core.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>
