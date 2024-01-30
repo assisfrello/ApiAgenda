@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "DVQzi8amSIZU2/B3ZI/cwY8vn0dyVWsXFTwvCD7nf7mh4sSrspwgPRgY2nNTx8CrXgDxRzY0g/XKaicKA5h3Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Assis\\Projeto\\ApiAgenda\\ApiAgenda.Domain\\ApiAgenda.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\assis.frello\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.101.31:9500/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
