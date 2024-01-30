@@ -1,0 +1,15 @@
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\bin\Debug\net7.0\ApiAgenda.Data.deps.json
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\bin\Debug\net7.0\ApiAgenda.Data.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\bin\Debug\net7.0\ApiAgenda.Data.pdb
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\bin\Debug\net7.0\ApiAgenda.Domain.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\bin\Debug\net7.0\ApiAgenda.Domain.pdb
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.csproj.AssemblyReference.cache
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.AssemblyInfoInputs.cache
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.AssemblyInfo.cs
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.csproj.CoreCompileInputs.cache
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.csproj.CopyComplete
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\refint\ApiAgenda.Data.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ApiAgenda.Data.pdb
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Data\obj\Debug\net7.0\ref\ApiAgenda.Data.dll
