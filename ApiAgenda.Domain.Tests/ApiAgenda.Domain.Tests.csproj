@@ -19,4 +19,8 @@
       <ProjectReference Include="..\ApiAgenda.Domain\ApiAgenda.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="obj\Debug\net7.0\" />
+    </ItemGroup>
+
 </Project>

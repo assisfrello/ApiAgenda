@@ -1,4 +1,6 @@
-﻿using ApiAgenda.Data.Context;
+﻿using System;
+using System.Threading.Tasks;
+using ApiAgenda.Data.Context;
 using ApiAgenda.Data.Repository;
 using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
