@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3P6heHMN/gG08SJKGZjVaW1lOGSbmDSJTo/YZrGKkSZ337W0KNl1ObNVBXPWPD1JAT4YzJZ1vNtIUXfqnk95XQ==",
+  "dgSpecHash": "pOuQ+36qrrtEFhA1PK5RqET+atPlQo/HTmwXaByWce+T9MmvgkVM8ApTE2mz2cLjn26thS5YZ1fnuSwOGpJfqw==",
   "success": true,
   "projectFilePath": "C:\\Assis\\Projeto\\ApiAgenda\\ApiAgenda.CrossCutting\\ApiAgenda.CrossCutting.csproj",
   "expectedPackageFiles": [
@@ -21,14 +21,17 @@
     "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
-    "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
+    "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.101.31:9500/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://192.168.101.31:9500/v3/index.json'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
     }
   ]
 }

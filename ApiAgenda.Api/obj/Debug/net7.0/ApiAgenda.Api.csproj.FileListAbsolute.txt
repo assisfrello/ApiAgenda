@@ -39,7 +39,6 @@ C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\staticwebassets.pack.j
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\scopedcss\bundle\ApiAgenda.Api.styles.css
-C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\ApiAgenda.Api.csproj.CopyComplete
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\ApiAgenda.Api.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\refint\ApiAgenda.Api.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\ApiAgenda.Api.pdb
@@ -52,3 +51,5 @@ C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\bin\Debug\net7.0\Mono.TextTemplating.dl
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\bin\Debug\net7.0\System.CodeDom.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\ApiAgenda.Api.sourcelink.json
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Api\obj\Debug\net7.0\ApiAgend.F5606F01.Up2Date

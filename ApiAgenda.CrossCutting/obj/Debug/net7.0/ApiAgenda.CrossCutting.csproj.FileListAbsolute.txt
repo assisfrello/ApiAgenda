@@ -10,8 +10,9 @@ C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.Cro
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.AssemblyInfoInputs.cache
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.AssemblyInfo.cs
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.csproj.CoreCompileInputs.cache
-C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.csproj.CopyComplete
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\refint\ApiAgenda.CrossCutting.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.pdb
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ref\ApiAgenda.CrossCutting.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgenda.CrossCutting.sourcelink.json
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.CrossCutting\obj\Debug\net7.0\ApiAgend.7BACD881.Up2Date

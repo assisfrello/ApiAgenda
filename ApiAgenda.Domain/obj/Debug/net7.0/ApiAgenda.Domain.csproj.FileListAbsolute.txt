@@ -10,3 +10,4 @@ C:\Assis\Projeto\ApiAgenda\ApiAgenda.Domain\obj\Debug\net7.0\ApiAgenda.Domain.dl
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Domain\obj\Debug\net7.0\refint\ApiAgenda.Domain.dll
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Domain\obj\Debug\net7.0\ApiAgenda.Domain.pdb
 C:\Assis\Projeto\ApiAgenda\ApiAgenda.Domain\obj\Debug\net7.0\ref\ApiAgenda.Domain.dll
+C:\Assis\Projeto\ApiAgenda\ApiAgenda.Domain\obj\Debug\net7.0\ApiAgenda.Domain.sourcelink.json

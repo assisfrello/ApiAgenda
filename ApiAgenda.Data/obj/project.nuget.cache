@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JuaRNC9oQ3Mx1DylaikYdwJIJqxyBVe6pJx/cnknyp6kNYUilB2DVRQ14r0mtPbdRoigJhV4a5P0tKqlNi3/JQ==",
+  "dgSpecHash": "/KT5rd32T3+wn+WgmGy4SfvNs88HbyKj/gAjK1JMep5BgOJo8h98bPi6uQl0MF8XWDe5ljYseWVdJHEHW4u/Yg==",
   "success": true,
   "projectFilePath": "C:\\Assis\\Projeto\\ApiAgenda\\ApiAgenda.Data\\ApiAgenda.Data.csproj",
   "expectedPackageFiles": [
@@ -21,14 +21,27 @@
     "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
-    "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
+    "C:\\Users\\assis.frello\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\assis.frello\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.101.31:9500/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://192.168.101.31:9500/v3/index.json'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Npgsql' 7.0.6 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net7.0"
+      ]
     }
   ]
 }
