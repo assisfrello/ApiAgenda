@@ -4,6 +4,8 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+        <UserSecretsId>06c36cae-6c69-4884-857a-761d00a4fcfb</UserSecretsId>
     </PropertyGroup>
 
     <ItemGroup>
@@ -22,6 +24,12 @@
     </ItemGroup>
     
     <ItemGroup>
-        <InternalsVisibleTo Include="ApiAgenda.Data.Tests"/>
+        <InternalsVisibleTo Include="ApiAgenda.Data.Tests" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
     </ItemGroup>
 </Project>
